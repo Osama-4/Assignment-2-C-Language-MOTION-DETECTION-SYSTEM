@@ -22,4 +22,4 @@ Members:
 - Responsible for **visual and audio feedback** (LEDs + buzzer) and system setup.
 
 - ## 📎 GitHub Link
-[Project Repository]()
+[Project Repository](https://github.com/Osama-4/Assignment-2-C-Language-MOTION-DETECTION-SYSTEM/tree/main)
