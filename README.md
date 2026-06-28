@@ -11,7 +11,7 @@ Members:
 - Added detection condition in `main()` to increment the counter when an object is detected.
 - Responsible for **distance measurement and detection threshold logic**.
 
-###  Abdelrahman Mohamed Saad Said – Display
+###  Abdelrahman Mohamed Saad Said – initializing Display & showing count on TM1637
 - Implemented **TM1637 display driver** (`TM1637_Init`, `TM1637_WriteByte`, `updateDisplay`).
 - Responsible for showing the **person count** on the 4-digit display.
 - Ensured proper brightness and segment mapping.
